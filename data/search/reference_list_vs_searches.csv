@@ -1,0 +1,87 @@
+﻿reference_key,role,title,year,doi,returned_by_searches,databases,duplicate_group,match
+soro2009,background,Cluster head election techniques for coverage preservation in wireless sensor networks,2009,10.1016/j.adhoc.2008.08.006,yes,ScienceDirect,3311,DOI
+anastasi2009,background,Energy conservation in wireless sensor networks: A survey,2009,10.1016/j.adhoc.2008.06.003,no,,,
+akyildiz2002,background,Wireless sensor networks: a survey,2002,10.1016/s1389-1286(01)00302-4,no,,,
+younis2008,background,Strategies and techniques for node placement in wireless sensor networks: A survey,2008,10.1016/j.adhoc.2007.05.003,no,,,
+yadav2016,background,A review on energy efficient protocols in wireless sensor networks,2016,10.1007/s11276-015-1025-x,yes,SpringerLink,3525,DOI
+rawat2021,background,A novel heterogeneous clustering protocol for lifetime maximization of wireless sensor network,2021,10.1007/s11277-020-07898-8,yes,SpringerLink,3973,DOI
+rawat2020,background,Performance analysis of RNC clustering protocol in wireless sensor network,2020,10.2174/2210327910666191218143503,no,,,
+gravina2017,background,Multi-sensor fusion in body sensor networks: State-of-the-art and research challenges,2017,10.1016/j.inffus.2016.09.005,no,,,
+amin2018,background,A robust and anonymous patient monitoring system using wireless medical sensor networks,2018,10.1016/j.future.2016.05.032,no,,,
+shinghal2017,background,Wireless sensor networks in agriculture: for potato farming,2017,,no,,,
+butun2013,background,A survey of intrusion detection systems in wireless sensor networks,2014,10.1109/surv.2013.050113.00191,no,,,
+sharma2015,background,Target tracking technique in wireless sensor network,2015,10.1109/ccaa.2015.7148426,no,,,
+mini2013,background,Sensor deployment and scheduling for target coverage problem in wireless sensor networks,2014,10.1109/jsen.2013.2286332,no,,,
+rawat2014,background,Wireless sensor networks: a survey on recent developments and potential synergies,2014,10.1007/s11227-013-1021-9,no,,,
+afsar2014,background,Clustering in sensor networks: A literature survey,2014,10.1016/j.jnca.2014.09.005,yes,ScienceDirect,3170,DOI
+moussa2020,background,ECRP: an energy-aware cluster-based routing protocol for wireless sensor networks,2020,10.1007/s11276-019-02247-5,yes,Google Scholar,5569,DOI
+kumar2019,background,Machine learning algorithms for wireless sensor networks: A survey,2019,10.1016/j.inffus.2018.09.013,no,,,
+elkhediri2024,background,Energy efficient cluster routing protocol for wireless sensor networks using hybrid metaheuristic approaches,2024,10.1016/j.adhoc.2024.103473,yes,ScienceDirect,2647,DOI
+fahmy2016,background,"Wireless Sensor Networks: Concepts, Applications, Experimentation and Analysis",2016,10.1007/978-981-10-0412-4,no,,,
+mukherjee2017,background,Building Wireless Sensor Networks: Theoretical and Practical Perspectives,2017,10.1201/9781315215303,no,,,
+sah2020,background,Renewable energy harvesting schemes in wireless sensor networks: A survey,2020,10.1016/j.inffus.2020.07.005,no,,,
+alsulaifanie2017,background,AH-MAC: Adaptive hierarchical MAC protocol for low-rate wireless sensor network applications,2017,10.1155/2017/8105954,no,,,
+aslam2011,background,A multi-criterion optimization technique for energy efficient cluster formation in wireless sensor networks,2011,10.1016/j.inffus.2009.12.005,yes,Google Scholar; ScienceDirect,3137,DOI
+keele2007,background,Guidelines for performing systematic literature reviews in software engineering,2007,,no,,,
+brereton2007,background,Lessons from applying the systematic literature review process within the software engineering domain,2007,10.1016/j.jss.2006.07.009,no,,,
+kitchenham2009,background,Systematic literature reviews in software engineering -- A systematic literature review,2009,10.1016/j.infsof.2008.09.009,no,,,
+moher2009,background,Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement,2009,10.7326/0003-4819-151-4-200908180-00135,no,,,
+page2021,background,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,2021,10.1136/bmj.n71,no,,,
+datta2017,background,A survey on bio inspired meta heuristic based clustering protocols for wireless sensor networks,2017,10.1088/1757-899x/263/5/052026,no,,,
+heinzelman2002,primary study,An application-specific protocol architecture for wireless microsensor networks,2002,10.1109/twc.2002.804190,yes,Google Scholar,4609,title (exact)
+younis2004,primary study,"HEED: a hybrid, energy-efficient, distributed clustering approach for ad hoc sensor networks",2004,10.1109/tmc.2004.41,yes,Google Scholar,4619,title (exact)
+manjeshwar2001,background,TEEN: a routing protocol for enhanced efficiency in wireless sensor networks,2001,10.1109/ipdps.2001.925197,no,,,
+smaragdakis2004,background,SEP: A stable election protocol for clustered heterogeneous wireless sensor networks,2004,,yes,Google Scholar,4620,title (exact)
+qing2006,background,Design of a distributed energy-efficient clustering algorithm for heterogeneous wireless sensor networks,2006,10.1016/j.comcom.2006.02.017,yes,Google Scholar,4669,title (exact)
+abbasi2007,background,A survey on clustering algorithms for wireless sensor networks,2007,10.1016/j.comcom.2007.05.024,no,,,
+arjunan2019,background,A survey on unequal clustering protocols in wireless sensor networks,2019,10.1016/j.jksuci.2017.03.006,yes,ScienceDirect; SpringerLink,3130,DOI
+er2017,background,Investigation of LEACH protocol and its successors in WSN,2017,10.5815/ijcnis.2017.06.05,no,,,
+bahbahani2017,background,A cooperative clustering protocol with duty cycling for energy harvesting enabled wireless sensor networks,2018,10.1109/twc.2017.2762674,yes,IEEE Xplore,732,DOI
+guleria2019,background,Comprehensive review for energy efficient hierarchical routing protocols on wireless sensor networks,2019,10.1007/s11276-018-1696-1,yes,SpringerLink,3416,DOI
+alsulaifanie2021,background,Hybrid access and adaptive duty cycle clustering protocol for ultra-low power wireless sensor networks,2021,10.1049/cmu2.12150,yes,Google Scholar,5620,DOI
+mirzaie2019,background,MACHFL-FT: a fuzzy logic based energy-efficient protocol to cluster heterogeneous nodes in wireless sensor networks,2019,10.1007/s11276-018-1757-5,no,,,
+logambigai2016,background,Fuzzy logic based unequal clustering for wireless sensor networks,2016,10.1007/s11276-015-1013-1,no,,,
+nagarajan2022,primary study,A new routing protocol for WSN using limit-based Jaya sail fish optimization-based multi-objective LEACH protocol: an energy-efficient clustering strategy,2022,10.1007/s11276-022-02963-5,yes,Google Scholar; SpringerLink,4009,DOI
+sambhe2025,background,A comparative analysis using LEACH protocol to enhance energy efficiency in wireless sensor networks with harmony search algorithm,2025,10.1007/s10791-024-09495-w,yes,SpringerLink,3824,DOI
+maurya2025,primary study,Hybrid compression-based routing strategies for enhanced energy efficiency in wireless sensor networks,2025,10.1186/s13677-025-00787-0,no,,,
+ilyas2020,primary study,Trust-based energy-efficient routing protocol for Internet of things--based sensor networks,2020,10.1177/1550147720964358,yes,Google Scholar,5542,DOI
+wang2023,primary study,A distributed particle-swarm-optimization-based fuzzy clustering protocol for wireless sensor networks,2023,10.3390/s23156699,no,,,
+kaddi2024,primary study,Energy-efficient clustering in wireless sensor networks using grey wolf optimization and enhanced CSMA/CA,2024,10.3390/s24165234,yes,Google Scholar,5773,title (exact)
+yadav2022,primary study,Hybrid metaheuristic algorithm for optimal cluster head selection in wireless sensor network,2022,10.1016/j.pmcj.2021.101504,yes,ScienceDirect,2872,DOI
+houssein2024,background,"Metaheuristic algorithms and their applications in wireless sensor networks: review, open issues, and challenges",2024,10.1007/s10586-024-04619-9,no,,,
+jaber2024,background,EEERP-RL: Enhanced energy-efficient routing protocol based on reinforcement learning for wireless sensor network,2025,10.1002/itl2.548,no,,,
+shekar2025,primary study,Implementation of novel learning based energy efficient routing protocols in wireless sensor networks for internet of things use cases,2025,10.1007/s10791-025-09718-8,no,,,
+hajar2023,background,3R: A reliable multi agent reinforcement learning based routing protocol for wireless medical sensor networks,2023,10.1016/j.comnet.2023.110073,no,,,
+liu2023drl,background,Intelligent routing algorithm for wireless sensor networks dynamically guided by distributed neural networks,2023,10.1016/j.comcom.2023.05.018,no,,,
+kaur2021,primary study,An energy efficient reinforcement learning based clustering approach for wireless sensor network,2021,10.4108/eai.25-2-2021.168808,no,,,
+eskandarpour2025,primary study,Game-theoretic and reinforcement learning-based cluster head selection for energy-efficient wireless sensor network,2025,10.48550/arxiv.2508.12707,no,,,
+azarderakhsh2011,primary study,Secure clustering and symmetric key establishment in heterogeneous wireless sensor networks,2011,10.1155/2011/893592,no,,,
+yang2021,primary study,An evolutionary game based secure clustering protocol with fuzzy trust evaluation and outlier detection for wireless sensor networks,2021,10.1109/jsen.2021.3070689,no,,,
+xiao2024,primary study,BS-SCRM: a novel approach to secure wireless sensor networks via blockchain and swarm intelligence techniques,2024,10.1038/s41598-024-60338-6,no,,,
+he2007,primary study,PDA: Privacy-preserving data aggregation in wireless sensor networks,2007,10.1109/infcom.2007.237,no,,,
+sen2012,background,An attack on privacy preserving data aggregation protocol for wireless sensor networks,2012,10.48550/arxiv.1201.4532,no,,,
+fu2020,primary study,A data clustering algorithm for detecting selective forwarding attack in cluster-based wireless sensor networks,2020,10.3390/s20010023,no,,,
+low2007,background,Load-balanced clustering algorithms for wireless sensor networks,2007,10.1109/icc.2007.576,no,,,
+yarinezhad2020,background,Exact and approximate algorithms for clustering problem in wireless sensor networks,2020,10.1049/iet-com.2019.0510,no,,,
+behera2020,primary study,I-SEP: An improved routing protocol for heterogeneous WSN for IoT-based environmental monitoring,2020,10.1109/jiot.2019.2940988,yes,IEEE Xplore,465,DOI
+abose2024,primary study,Optimized cluster routing protocol with energy-sustainable mechanisms for wireless sensor networks,2024,10.1109/access.2024.3429645,yes,IEEE Xplore,391,DOI
+han2020,primary study,Clustering the wireless sensor networks: A meta-heuristic approach,2020,10.1109/access.2020.3041118,yes,IEEE Xplore,65,DOI
+elashry2025,primary study,A hybrid gazelle optimization and reptile search algorithm for optimal clustering in wireless sensor networks,2025,10.1038/s41598-025-96966-9,yes,SpringerLink,3834,DOI
+sadrishojaei2024,primary study,Clustered routing scheme in IoT during COVID-19 pandemic using hybrid black widow optimization and harmony search algorithm,2024,10.1007/s43069-024-00331-x,no,,,
+sadrishojaei2025,primary study,Energy-efficient routing for Internet of Things using combination of meta-heuristic algorithms in viral pandemics,2025,10.1080/03772063.2025.2487936,no,,,
+zhang2025,primary study,Improving the functionality of wireless sensor networks through the use of reinforcement learning and metaheuristic based energy efficient system,2025,10.1038/s41598-025-16128-9,no,,,
+elsayed2024,primary study,An efficient neural network LEACH protocol to extended lifetime of wireless sensor networks,2024,10.1038/s41598-024-75904-1,no,,,
+jarwan2019,primary study,Data transmission reduction schemes in WSNs for efficient IoT systems,2019,10.1109/jsac.2019.2904357,no,,,
+wang2021iceib,primary study,Wireless sensor network routing algorithm based on traffic prediction for Internet of Thing,2021,10.1109/iceib53692.2021.9686397,no,,,
+varun2021,primary study,Energy-efficient routing using fuzzy neural network in wireless sensor networks,2021,10.1155/2021/5113591,no,,,
+afsar2019,primary study,Energy-efficient coalition formation in sensor networks: a game-theoretic approach,2019,10.1109/ccece.2019.8861807,no,,,
+yao2022,primary study,Game theory and coverage optimization based multihop routing protocol for network lifetime in wireless sensor networks,2022,10.1109/jsen.2022.3178441,yes,IEEE Xplore,355,DOI
+wan2024,primary study,GTIACO: energy efficient clustering algorithm based on game theory and improved ant colony optimization,2024,10.1007/s11235-024-01132-7,yes,SpringerLink,3877,DOI
+mishra2017,primary study,Energy efficient approach in wireless sensor networks using game theoretic approach and ant colony optimization,2017,10.1007/s11277-017-4000-2,no,,,
+khan2024,background,Artificial neural network-based mechanism to detect security threats in wireless sensor networks,2024,10.3390/s24051641,no,,,
+fang2020,background,Trust-based attack and defense in wireless sensor networks: A survey,2020,10.1155/2020/2643546,no,,,
+ishmanov2017,background,Trust mechanisms to secure routing in wireless sensor networks: Current state of the research and open research issues,2017,10.1155/2017/4724852,no,,,
+zhang2021,background,Deep reinforcement learning-based multi-hop state-aware routing strategy for wireless sensor networks,2021,10.3390/app11104436,no,,,
+agrawal2025,background,Bio-inspired algorithms for efficient clustering and routing in flying ad hoc networks,2025,10.3390/s25010072,no,,,
+sadrishojaei2025fanet,background,New routing method in flying ad hoc networks based on squirrel search algorithm,2025,10.1080/1206212x.2025.2502778,no,,,
+sadrishojaei2024fanet,background,A delay aware routing approach for FANET based on emperor penguins colony algorithm,2024,10.1007/s12083-024-01764-1,no,,,
